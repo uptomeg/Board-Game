@@ -1,0 +1,68 @@
+Final Project Presentation Marking Rubric
+=========================================
+Team Name: JavaJaguars
+
+### a. Product Demo [10 marks]:
+Features Demo: up to 3 marks for each major feature presented 
+
+-- Feature 1 presentation: 0-3 marks [3=Excellent, 2=Adequate, 1=Inadequate, 0=No feature]
+
+Your mark: 3.0
+
+-- Feature 2 presentation: 0-3 marks [3=Excellent, 2=Adequate, 1=Inadequate, 0=No feature]
+
+Your mark: 3.0
+
+**Comments:** "Unclear
+
+-- Feature 3 presentation: 0-3 marks [3=Excellent, 2=Adequate, 1=Inadequate, 0=No feature]
+
+Your mark: 2.0
+
+**Comments:**  not well explained for features 2+3"
+
+-- No technical difficulties occurred when presenting the product demo: 0-1 marks [1=Yes, 0=No]
+
+ Your mark: 1.0
+
+### b. Software Design [6 marks]:
+Software Design
+- 0-4 marks 
+- [4=Design presented clearly, illustrated with sufficient diagrams, components and responsibilities shown clearly]
+- [-1 mark for each missing component]
+
+ Your mark: 4.0
+
+Design Choices
+- 0-2 marks 
+- [2=Design choices made clear and explained]
+- [1= Design choices explained, but reasoning could be improved]
+- [0=Design choices not explained or explained poorly]
+ Your mark: 2.0
+
+**Comments:** "Factory UML minimal and missing a lot of information. Issues with Strategy UML. (unclear). Problem with the logic of Observable."
+
+### c. Process [4 marks]:
+
+Technical challenges 
+- 0-2 marks
+- [2=Technical challenges explained clearly]
+- [1=Technical challenges explained, but reasoning could be improved]
+- [0=Technical challenges not explained or explained poorly]
+ Your mark: 1.0
+
+Lessons learned
+- 0-2 marks
+- [2=Lessons learned explained clearly]
+- [1=Lessons learned explained, but reasoning could be improved]
+- [0=Lessons learned not explained or explained poorly]
+ Your mark: 2.0
+### d. Attendance [2 marks]:
+- Attendance (max 2 marks)
+    - 2 marks = full team is present
+    - 1 mark = one member is not present
+    - 0 marks = more than one member is not present
+ Your mark: 2.0
+==========
+ Total mark: 20.0 / 22
+==========

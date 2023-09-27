@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+28-Nov,1,3,zhanteng zhang,finished the new robot agent,fix the conflict and merge to develop branch,by Nov 28 midnight,NO
+28-Nov,1,3,Chutong Li,Modified the count feature,I will review the features of the others and change my code if needed.,by Nov 28 midnight,NO
+29-Nov,1,3,Andrey Valkov,Some minor bugfixes,Figure out a use case for singleton and refactor stories if needed.,by asap (later today),��\_(??_/��
+29-Nov,1,3,Chiung-Li Wang,Complete the code,fix some bugs,by Nov 29 midnight,maybe not so far

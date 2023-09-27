@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Dec 5th,2,3,Chutong Li,Finished the user login,Prepare for the presentation and fix the bugs,Tonight,No
+Dec 5th,2,3,Chiung-Li Wang,Finish the Robot help moving feature,"Bugfixes and commit the codes, prepare for the presentation",Tonight,No
+Dec 5th,2,3,zhanteng zhang,finished the ppt,Bugfixes and record the demo video and do the video cut,Tonight,No
+Dec 5th,2,3,Andrey Valkov,Implemented singleton,Bugfixes and clearing red tape,Tonight,MT is hard to implement with alpha beta pruning

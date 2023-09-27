@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov 27nd,1,2,Chutong Li,Implement the count feature,Modify the count feature therefore it will better suit the whole game,In one day,"No, this is an essentional feature"
+Nov 27nd,1,2,Zhanteng Zhang,add the new game model in the ThreeMusketeers class and change the choose game option,implement the move function in the new robot agent class,by the midnight of the Nov 28th,"Yes, I need to use the count funtion to get the current steps numbers to implement the getMove() function"
+Nov 27nd,1,2,Chiung-Li Wang,Implement the dangerous remind feature,keep on doing it,Before Monday midnight,"Should be using observer pattern, a little bit complicated in this case"
+Nov 27nd,1,2,Andrey Valkov,Refactored undo using memento pattern,something to do with singleton,Before Monday deadline of course,"Might be hard to justify using the pattern"

@@ -1,0 +1,4 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 2.6,Safe Initialization of ThreeMusketeers class,Andrey Valkov,1,1,Future developer,A thread-safe implementation of the ThreeMusketters class employing the singleton pattern., Allows future features such as multiplayer to be more easily implemented and removes risk of ambiguous ThreeMuskeers objects
+User Story 2.1,User Login,Chutong Li,1,1,User,Ability to login by the assigned user name and password to saved counted games which store in the resource by visitor pattern.,This will help the assigned user to know how many games he has played.
+User Story 2.4,RobotHelpMoving,Dino Wang,1,1,User,Allow bot to suggest moves, Aid users who are indecisive

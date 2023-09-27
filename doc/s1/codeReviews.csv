@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV-11,the round count feature,zhanteng zhang,https://github.com/UTMCSC207/assignment3-javajaguars/pull/15, it worked and test without finding any problems
+DEV-14, the new robot agent feature, Chutong Li," https://github.com/UTMCSC207/assignment3-javajaguars/pull/11, https://github.com/UTMCSC207/assignment3-javajaguars/pull/12", Works fine on different states.
+DEV-13, Danger sign, Andrey Valkov, https://github.com/UTMCSC207/assignment3-javajaguars/pull/19, Looks good :)
+DEV-15, Memento save, Chiung-Li Wang, https://github.com/UTMCSC207/assignment3-javajaguars/pull/17, Code checked, runs all good
